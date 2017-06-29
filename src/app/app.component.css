@@ -1,0 +1,8 @@
+* {margin:0px; padding: 0px;}
+main, article, section, header, nav{
+    display: block;
+}
+#wrapper{
+    margin: 0px auto;
+    width: 100%;
+}

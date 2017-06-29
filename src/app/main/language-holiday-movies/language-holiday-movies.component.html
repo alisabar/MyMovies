@@ -1,0 +1,22 @@
+<body>
+    <div>
+     <select [(ngModel)]="selectedHoliday" class="form-control" >
+        <option value=''>Select a holiday</option>
+        <option *ngFor="let name of holidays">{{name}}</option>
+     </select>
+
+      <select [(ngModel)]="selectedLanguage" class="form-control">
+        <option value=''>Select a language</option>
+        <option *ngFor="let name of languages">{{name}}</option>
+     </select>
+
+     <button type="button" class="btn btn-default" [disabled]="!selectedHoliday" (click)="getData()">
+        <span class="glyphicon glyphicon-search"></span> Search
+      </button>
+    </div>
+</body>
+
+
+<app-movie *ngIf="movies; else no_data"  [moviesData]="movies"></app-movie>
+
+<ng-template #no_data></ng-template>

@@ -1,0 +1,19 @@
+<body>
+<div *ngIf ="moviesData.Error; else display_movies">
+    {{moviesData.Error}}
+</div>
+<ng-template class="main" #display_movies>
+<div *ngFor="let movie of moviesData">
+  <div>Movie Name: {{movie.name}}</div>
+  <div>Year: {{movie.year}}</div>
+  <div>Genre: {{movie.genre}}</div>
+  <div>Running time: {{movie.running_time}}</div>
+  <div>Country: {{movie.country}}</div>
+  <div>Original language: {{movie.language.original}}</div>
+  <div>Subtitles language: {{movie.language.subtitles}}</div>
+  <div>Starring: <span *ngFor="let star of movie.starring">{{star}} </span></div>
+  <div>Tags: <span *ngFor="let tag of movie.tags">{{tag}} </span></div>
+  <br>
+</div>
+</ng-template>
+</body>

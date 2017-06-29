@@ -1,0 +1,4 @@
+
+<app-movie *ngIf="movies; else no_data"  [moviesData]="movies"></app-movie>
+
+<ng-template #no_data></ng-template>

@@ -1,0 +1,13 @@
+* {margin:0px; padding: 0px;}
+main, header, nav{
+    display: block;
+}
+nav{
+    padding-left: 30px;
+}
+nav a{
+    padding-right: 20px;
+}
+a{
+    padding-top: 15px;
+}

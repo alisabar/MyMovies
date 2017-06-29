@@ -1,0 +1,19 @@
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container-fluid ">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Great Movies</a>
+        </div>
+        <ul class="nav navbar-nav">
+          <li [ngClass]="{active:selectedfeature=='all'}" ><a href="#" 
+          (click)="onSelect('all')">Display all movies</a></li>
+          <li [ngClass]="{active:selectedfeature=='all_holiday'}"><a href="#"
+          (click)="onSelect('all_holiday')">Disply movies by holiday</a></li>
+          <li [ngClass]="{active:selectedfeature=='search'}"><a href="#"
+          (click)="onSelect('search')">Search movies by holiday and language</a></li>
+        </ul>
+      </div>
+    </nav>
+  
+ 
+
