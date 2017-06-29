@@ -1,0 +1,1551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mov",
+				"movie.model\tscript"
+			],
+			[
+				"N",
+				"Number\tinterface"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"n",
+				"node_modules"
+			],
+			[
+				"userna",
+				"userName"
+			],
+			[
+				"st",
+				"stringify"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"i",
+				"iVal"
+			],
+			[
+				"Sho",
+				"ShoppingListComponent\talias"
+			],
+			[
+				"fa",
+				"fairyTail\tparameter"
+			],
+			[
+				"sche",
+				"schemaMovie"
+			],
+			[
+				"f",
+				"find"
+			],
+			[
+				"M",
+				"movies"
+			],
+			[
+				"mo",
+				"movies"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"ge",
+				"genre"
+			],
+			[
+				"new",
+				"newUser1"
+			],
+			[
+				"re",
+				"reduceScore"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"e",
+				"eventConfig"
+			],
+			[
+				"ev",
+				"eventConfig"
+			],
+			[
+				"s",
+				"sport"
+			],
+			[
+				"pl",
+				"player1"
+			],
+			[
+				"u",
+				"urlObj"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"p",
+				"prefixMsg"
+			],
+			[
+				"A",
+				"Avg"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/main/all-movies/all-movies.component.ts",
+			"settings":
+			{
+				"buffer_size": 771,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/movie/movie.component.ts",
+			"settings":
+			{
+				"buffer_size": 343,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/language-holiday-movies/language-holiday-movies.component.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Alisa/Documents/webNodeLessons/targil1 - Copy/index.js",
+			"settings":
+			{
+				"buffer_size": 1279,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.component.html",
+			"settings":
+			{
+				"buffer_size": 1938,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 273,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/app.module.ts",
+			"settings":
+			{
+				"buffer_size": 1043,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/main.component.ts",
+			"settings":
+			{
+				"buffer_size": 304,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/main.component.html",
+			"settings":
+			{
+				"buffer_size": 282,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/movie/movie.component.spec.ts",
+			"settings":
+			{
+				"buffer_size": 625,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/nav/nav.component.ts",
+			"settings":
+			{
+				"buffer_size": 501,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/app.component.css",
+			"settings":
+			{
+				"buffer_size": 140,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/nav/nav.component.html",
+			"settings":
+			{
+				"buffer_size": 652,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/nav/nav.component.spec.ts",
+			"settings":
+			{
+				"buffer_size": 611,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/language-holiday-movies/language-holiday-movies.component.html",
+			"settings":
+			{
+				"buffer_size": 585,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/all-holiday-movies/all-holiday-movies.component.html",
+			"settings":
+			{
+				"buffer_size": 130,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/main.component.spec.ts",
+			"settings":
+			{
+				"buffer_size": 618,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/movie/movie.component.html",
+			"settings":
+			{
+				"buffer_size": 80,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/main.component.css",
+			"settings":
+			{
+				"buffer_size": 68,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/main/language-holiday-movies/language-holiday-movies.component.spec.ts",
+			"settings":
+			{
+				"buffer_size": 739,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/language-holiday-movies/language-holiday-movies.component.ts",
+			"settings":
+			{
+				"buffer_size": 1968,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/nav/nav.component.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/main/movie/movie.model.ts",
+			"settings":
+			{
+				"buffer_size": 364,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/main/all-movies/all-movies.component.html",
+			"settings":
+			{
+				"buffer_size": 130,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/all-holiday-movies/all-holiday-movies.component.ts",
+			"settings":
+			{
+				"buffer_size": 801,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/all-holiday-movies/all-holiday-movies.component.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/main/all-holiday-movies/all-holiday-movies.component.spec.ts",
+			"settings":
+			{
+				"buffer_size": 704,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/main/all-movies/all-movies.component.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 151.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"typescript",
+				"Set Syntax: AppleScript"
+			]
+		],
+		"width": 648.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/main",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/main/all-holiday-movies",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/main/all-movies",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/main/language-holiday-movies",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/main/movie",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/nav"
+	],
+	"file_history":
+	[
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/main/language-holiday-movies/language-holiday-movies.component.css",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/favicon.ico",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/nav/nav.component.css",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/nav/nav.component.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/nav/nav.component.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/styles.css",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/.angular-cli.json",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/main/main.component.css",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/app.component.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/main/main.component.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/all-movies/all-movies.component.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/index.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/header/header.component.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/app.component.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/main.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/app.module.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/header/header.component.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/app.component.css",
+		"/C/Users/Alisa/Documents/webNodeLessons/MoviesClient/myMovies/src/app/header/header.component.css",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil1 - Copy/movie_marathon/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/punkWS/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil1 - Copy/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil1 - Copy/movie_marathon/mongo.js",
+		"/C/Users/Alisa/Downloads/ex1ws-master/ex1ws-master/movie_marathon/index.js",
+		"/C/Users/Alisa/Downloads/ex1ws-master/ex1ws-master/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil1 - Copy/schema.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil1 - Copy/movie_marathon/schema.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil1 - Copy/movie_marathon/schemaMovie.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil1 - Copy/schemaMovie.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/punkWS/consts.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/punkWS/schema_user.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/punkWS/mongoos_connect.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/punkWS/dbqueries.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/12_full_stack/app/books-store-proj1/books-store-proj1/src/app/shopping-list/shopping-edit/shopping-edit.component.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/12_full_stack/app/books-store-proj1/books-store-proj1/src/app/app.module.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/12_full_stack/app/books-store-proj1/books-store-proj1/src/app/app.component.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/12_full_stack/app/books-store-proj1/books-store-proj1/src/app/shopping-list/shopping-list.service.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/12_full_stack/service/consts.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/12_full_stack/service/models/fairytail.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/12_full_stack/app/books-store-proj1/books-store-proj1/src/app/shopping-list/shopping-edit/shopping-edit.component.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/12_full_stack/service/database.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/12_full_stack/service/server.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/12_full_stack/service/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/alex-test/src/app/app.component.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/alex-test/.angular-cli.json",
+		"/C/Users/Alisa/Documents/webNodeLessons/alex-test/src/index.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/alex-test/src/main.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/alex-test/src/app/app.component.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/alerts/alerts/src/index.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil1/movie_marathon/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/my-dream-app/.angular-cli.json",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/my-dream-app/src/app/app.component.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/51017/1_mongoose_connect.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/0/mdl.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/lesson2604/first.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil0/configs/config.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil1/json/targil1.json",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/alerts/alerts/src/app/err-alerts/err-alerts.component.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/alerts/alerts/src/app/succ-alerts/succ-alerts.component.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/alerts/alerts/src/app/succ-alerts/succ-alerts.component.ts",
+		"/C/Users/Alisa/Downloads/books-store-proj1/books-store-proj1/src/app/books/books.component.html",
+		"/C/Users/Alisa/Downloads/books-store-proj1/books-store-proj1/src/app/books/book-list/book-list.component.html",
+		"/C/Users/Alisa/Downloads/books-store-proj1/books-store-proj1/src/app/shopping-list/shopping-list.component.html",
+		"/C/Users/Alisa/Downloads/books-store-proj1/books-store-proj1/src/app/books/book-list/book-list.component.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/51017/1_define_schema.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil0/players_wins/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/my-dream-app/src/app/app.component.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/alerts/alerts/src/app/app.component.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/alerts/alerts/.angular-cli.json",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/my-dream-app/src/index.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/my-dream-app/src/main.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/my-dream-app/src/app/app.module.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil1/API.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil0/index.js",
+		"/C/xampp/htdocs/sublime/app/index.html",
+		"/C/Users/Alisa/Documents/webNodeLessons/targil1/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/170517/my-dream-app/src/app/app.component.spec.ts",
+		"/C/Users/Alisa/Documents/webNodeLessons/19.4 lesson/config/config.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/lesson2604b/bodyParser.js",
+		"/C/xampp/htdocs/sublime/node1.js",
+		"/C/xampp/htdocs/sublime/ws_calculator/ws.php",
+		"/C/Users/Alisa/Documents/webNodeLessons/http/ws/html/hello.html",
+		"/C/xampp/htdocs/sublime/ex3.php",
+		"/C/Users/Alisa/Documents/webNodeLessons/finaljob/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/19.4 lesson/3.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/5/package.json",
+		"/C/Users/Alisa/Documents/webNodeLessons/2/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/1/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/5/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/createserver.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/lesson2604/second.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/2/news/index.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/1/node1mdl.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/http/ws/server.js",
+		"/C/Users/Alisa/Documents/webNodeLessons/finaljob/calculator/index.js",
+		"/C/xampp/htdocs/sublime/ws.php",
+		"/C/Users/Alisa/Documents/webNodeLessons/0/index.js",
+		"/C/Users/Alisa/Documents/אתר של אליסה/index.html",
+		"/C/xampp/htdocs/hello.php"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getData",
+			"\"",
+			"newUser",
+			"newUser1",
+			"newuser",
+			"conn ",
+			"conn",
+			".status",
+			"schema_video",
+			"conn",
+			"conn.",
+			"'open'",
+			"getMoviesByGenrePost",
+			"record",
+			"aaa",
+			"findMoviesByGenreGet",
+			"mongoose.disconnect()",
+			"mongoose.disconnect();",
+			"myMarathon",
+			"data",
+			"foundMovies",
+			"conn",
+			"genresSchema",
+			"gene",
+			"static",
+			"returnVal",
+			"$retval",
+			"$_post",
+			"super",
+			"$_get",
+			"echo",
+			"this"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"//mongoose.disconnect();",
+			"$_POST",
+			"$_GET",
+			"$this"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/main/all-movies/all-movies.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								623,
+								623
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/main/movie/movie.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/main/language-holiday-movies/language-holiday-movies.component.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Alisa/Documents/webNodeLessons/targil1 - Copy/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/app.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1938,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1938,
+								1938
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/app.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								749,
+								749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/main/main.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/main/main.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/main/movie/movie.component.spec.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/nav/nav.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/app.component.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/nav/nav.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/nav/nav.component.spec.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								461,
+								461
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "app/main/language-holiday-movies/language-holiday-movies.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "app/main/all-holiday-movies/all-holiday-movies.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "app/main/main.component.spec.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "app/main/movie/movie.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "app/main/main.component.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 68,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "app/main/language-holiday-movies/language-holiday-movies.component.spec.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "app/main/language-holiday-movies/language-holiday-movies.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1481,
+								1481
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1337.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "app/nav/nav.component.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "app/main/movie/movie.model.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "app/main/all-movies/all-movies.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "app/main/all-holiday-movies/all-holiday-movies.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								798
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "app/main/all-holiday-movies/all-holiday-movies.component.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "app/main/all-holiday-movies/all-holiday-movies.component.spec.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "app/main/all-movies/all-movies.component.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "myMovies.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 611.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
