@@ -6,7 +6,7 @@ import{AllMoviesComponent} from './main/all-movies/all-movies.component';
 import{LanguageHolidayMoviesComponent} from './main/language-holiday-movies/language-holiday-movies.component';
 
 const appRoutes: Routes=[
-//{path: '', redirectTo: 'all-movies', pathMatch:'full'},
+{path: '', redirectTo: '/all-movies', pathMatch:'full'},
 {path:'all-holiday-movies', component: AllHolidayMoviesComponent },
 {path:'all-movies', component: AllMoviesComponent },
 {path:'language-holiday-movies', component: LanguageHolidayMoviesComponent },
