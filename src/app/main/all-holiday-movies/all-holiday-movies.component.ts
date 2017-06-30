@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { Http } from '@angular/http';
 import 'rxjs/Rx';
-
-import {Movie} from '../movie/movie.model';  
+import {ActivatedRoute, Params} from '@angular/router';
+import {MovieResult} from '../movie/movieResult.model';  
 import {MovieComponent} from '../movie/movie.component';  
 
 @Component({
@@ -12,7 +12,7 @@ import {MovieComponent} from '../movie/movie.component';
 })
 export class AllHolidayMoviesComponent implements OnInit {
   http:Http; 
-  movies:Movie[];
+  movies:MovieResult;
   constructor(http:Http) 
   {
         this.http=http;
@@ -25,7 +25,7 @@ getData(){
         var url:string="https://ex1-vodlibrary-with-mlab.herokuapp.com/getHolidayMovies";
         this.http
         .get(url)
-        .map(res=>res.json())
+        .map(res=>new MovieResult(res))
         .subscribe(moviesResult=>this.movies=moviesResult);  
 
     }

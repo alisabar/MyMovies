@@ -20,6 +20,13 @@
  -->
 <div id="wrapper">
 
-  <app-nav (navFeatureSelected)="onNav($event)"></app-nav>
+  <!-- <app-nav (navFeatureSelected)="onNav($event)"></app-nav>
+  -->
+  <!-- 
   <app-main [mainSelectedFeature]="loadFeature"></app-main>
+-->
+<app-nav></app-nav>
+<div id="navigate-main">
+  <router-outlet></router-outlet>
+</div>
 </div>

@@ -1,5 +1,5 @@
 import { Component, OnInit ,Input} from '@angular/core';
-import {Movie} from './movie.model';
+import {MovieResult} from './movieResult.model';
 @Component({
   selector: 'app-movie',
   templateUrl: './movie.component.html',
@@ -8,7 +8,7 @@ import {Movie} from './movie.model';
 
 export class MovieComponent implements OnInit {
 
-@Input() moviesData: Movie[];
+@Input() moviesData: MovieResult;
 
   constructor() { 
 

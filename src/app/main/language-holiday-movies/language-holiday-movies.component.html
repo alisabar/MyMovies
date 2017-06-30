@@ -1,5 +1,6 @@
-<body>
+
     <div>
+
      <select [(ngModel)]="selectedHoliday" class="form-control" >
         <option value=''>Select a holiday</option>
         <option *ngFor="let name of holidays">{{name}}</option>
@@ -14,7 +15,6 @@
         <span class="glyphicon glyphicon-search"></span> Search
       </button>
     </div>
-</body>
 
 
 <app-movie *ngIf="movies; else no_data"  [moviesData]="movies"></app-movie>

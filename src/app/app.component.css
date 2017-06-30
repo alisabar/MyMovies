@@ -6,3 +6,11 @@ main, article, section, header, nav{
     margin: 0px auto;
     width: 100%;
 }
+
+#navigate-main
+{
+  width: 100%;
+    height: 50px;
+    background: #F5FFFA;
+    margin-top:65px;
+}

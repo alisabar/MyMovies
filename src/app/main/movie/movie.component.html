@@ -1,9 +1,9 @@
-<body>
-<div *ngIf ="moviesData.Error; else display_movies">
-    {{moviesData.Error}}
+
+<div *ngIf ="moviesData.error; else display_movies">
+    {{moviesData.error}}
 </div>
 <ng-template class="main" #display_movies>
-<div *ngFor="let movie of moviesData">
+<div *ngFor="let movie of moviesData.movies">
   <div>Movie Name: {{movie.name}}</div>
   <div>Year: {{movie.year}}</div>
   <div>Genre: {{movie.genre}}</div>
@@ -16,4 +16,3 @@
   <br>
 </div>
 </ng-template>
-</body>

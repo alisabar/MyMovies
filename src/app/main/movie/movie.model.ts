@@ -7,7 +7,7 @@ export class Movie{
     public year: String="";
     public genre: String[] =[];
     public starring: String [];
-    // public running_time:String="";
+    public running_time:String="";
     public country: String="";
     public language:Language;
     public holiday:String="";
